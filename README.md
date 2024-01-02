@@ -9,6 +9,6 @@ Names for routes or stations may have changed through time (most recent/common n
 
 Data structure.
 
-Data structure is "inspired" by the INSPIRE(EU) ontology and formats for transportation data, limited to simpler way to encoding minimal requested information.
-This limitation consists in extracting stations by "route" (from A to B) and to ensure that routes connect to each other in a graph.
-The nodes of that graph are stations or branch nodes (Y) or special locations (eg. bridges).
+Data structure is "inspired" by the INSPIRE(EU) ontology and formats for transportation data, limited to encoding the minimal requested information.
+This limitation consists in ordering stations by "route" (from A to B) and to ensure that routes connect to each other in a graph.
+The nodes of that graph are : stations, branch nodes (Y) or special locations (eg. bridges).
