@@ -1,0 +1,12 @@
+{"type":"FeatureCollection",
+"metadata":{"url":"GaAndrezieux","mime":"geojson","type":"gare","year":"Jun 18 2022","doc":"manual","country":"87"},
+"features":[
+{"properties":{"id":"Saint-Étienne-Pont-de-l'Âne","uic":"87726133","num":"_42CCFSEL","pk":0,"use":"J","info":"origine Ligne_de_Saint-Étienne_à_Andrézieux CCFSEL:Compagnie_du_chemin_de_fer_de_Saint-Étienne_à_la_Loire normale","end":"1827-1858"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.42002,45.44404]}},
+{"properties":{"id":"Saint-Étienne-Le-Marais","uic":"8742CCFSEL_2","num":"_42CCFSEL","pk":2.5,"use":"N","nom":"Saint-Étienne","cc":"42218","info":"+ITE"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.39172,45.45596]}},
+{"properties":{"id":"Les Mottetières","uic":"*","num":"_42CCFSEL","pk":3,"use":"N","nom":"Saint-Étienne","cc":"42218","info":"halte"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.381138,45.46319]}},
+{"properties":{"id":"Le Bois-Monzil","uic":"*","num":"_42CCFSEL","pk":4,"use":"N","nom":"Saint-Priest-en-Jarez","cc":"42275","info":"wf:Compagnie_du_chemin_de_fer_de_Saint-Étienne_à_la_Loire#/media/Fichier:CDF_Saint_Etienne_-_Andrézieux.jpg"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.37034,45.46527]}},
+{"properties":{"id":"Mont-Ravel","uic":"*","num":"_42CCFSEL","pk":9.7,"use":"N","nom":"Villars","cc":"42330","info":"haf 2"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.345803,45.4795]}},
+{"properties":{"id":"La Rejaillère","uic":"*","num":"_42CCFSEL","pk":13.2,"use":"N","nom":"Fouillouse","cc":"42097","info":"haf 3"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.294321,45.50725]}},
+{"properties":{"id":"La Quérillère","uic":"8742CCFSEL4","num":"_42CCFSEL","pk":16,"use":"N","nom":"Saint-Just-Saint-Rambert","cc":"42279","info":"haf 4 +ITE"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.272013,45.515187]}},
+{"properties":{"id":"Andrézieux-Embarcadère","uic":"8742CCFSEL_18","num":"_42CCFSEL","pk":17.9,"use":"N","nom":"Andrézieux-Bouthéon","cc":"42005","info":"premier terminus au nord du Furan if:1875"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.252,45.5293]}}
+]}

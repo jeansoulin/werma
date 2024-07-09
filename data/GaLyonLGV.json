@@ -1,0 +1,31 @@
+{"type":"FeatureCollection",
+"metadata":{"country":87,"url":"Gares20","mime":"geojson","type":"gare","year":"Jul.2022","doc":"SNCF"},
+"features":[
+{"properties":{"num":"752000","pk":0,"use":"B","id":"Combs-la-Ville (Y)","uic":"87752_0","info":"pk:29.1 origine Ligne_de_Combs-la-Ville_à_Saint-Louis_(LGV)","end":"no"},"type":"Feature","geometry":{"type":"Point","coordinates":[2.565,48.63828]}},
+{"properties":{"num":"752000","pk":17.1,"use":"B","id":"Moisenay (Y)","uic":"87752100b"},"type":"Feature","geometry":{"type":"Point","coordinates":[2.75357,48.56911]}},
+{"properties":{"num":"752000","pk":49.22,"use":"N","id":"Marolles-TGV","uic":"87772327","nom":"Marolles-sur-Seine","cc":"77021","info":"maintenance"},"type":"Feature","geometry":{"type":"Point","coordinates":[3.05408,48.37259]}},
+{"properties":{"num":"752000","pk":92.78,"use":"N","id":"Vaumort","uic":"87772343","cc":"89434","info":"maintenance"},"type":"Feature","geometry":{"type":"Point","coordinates":[3.44955,48.11599]}},
+{"properties":{"num":"752000","pk":117.4,"use":"B","id":"Saint-Florentin (Rb.TGV)","uic":"87833300b"},"type":"Feature","geometry":{"type":"Point","coordinates":[3.69389,47.97383]}},
+{"properties":{"num":"752000","pk":139.4,"use":"N","id":"Tonnerre-TGV","uic":"87772368","nom":"Tonnerre","cc":"89417","info":"maintenance"},"type":"Feature","geometry":{"type":"Point","coordinates":[3.91752,47.85163]}},
+{"properties":{"num":"752000","pk":161.9,"use":"B","id":"Pasilly (Ra)","uic":"87768300a"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.07318,47.69316]}},
+{"properties":{"num":"752000","pk":162.11,"use":"N","id":"Pasilly","uic":"87772376","nom":"Sarry","cc":"89376","info":"bifurcation de LGV_Sud-Est, twin:better +jj"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.07822,47.68476]}},
+{"properties":{"num":"752000","pk":203,"use":"N","id":"Lacour-d'Arcenay","uic":"87772400","cc":"21335","info":"maintenance"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.24934,47.343]}},
+{"properties":{"num":"752000","pk":273,"use":"B","id":"Montchanin (Ra)","uic":"87767300a"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.49986,46.76852]}},
+{"properties":{"num":"752000","pk":273.82,"use":"O","id":"Le Creusot-Montceau-Montchanin","uic":"87694109","nom":"Écuisses","cc":"71187","info":"gare"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.50011,46.76521]}},
+{"properties":{"num":"752000","pk":333.98,"use":"O","id":"Mâcon-Loché-TGV","uic":"87725705","nom":"Mâcon","cc":"71270","info":"gare"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.77844,46.28278]}},
+{"properties":{"num":"752000","pk":334.3,"use":"B","id":"Mâcon-Sud (Ra)","uic":"87778300a"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.78102,46.28008]}},
+{"properties":{"num":"752000","pk":335.8,"use":"B","id":"Mâcon-Nord (Rb)","uic":"87779300b"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.79597,46.26914]}},
+{"properties":{"num":"752000","pk":337.74,"use":"B","id":"Cormoranche-sur-Saône (Y)","uic":"87752_337","info":"bif. des Savoies"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.82542,46.25967]}},
+{"properties":{"num":"752000","pk":380.5,"use":"B","id":"Montanay (Y)","uic":"87752330a","info":"terminus deb:LGV_Rhône-Alpes +suite:Marseille"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.87708,45.89361]}},
+
+{"properties":{"num":"752330","pk":380.5,"use":"B","id":"Montanay (Y)","uic":"87752330a","info":"origine Raccordement_de_Lyon-Saint-Clair_(LGV)","end":"no"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.87708,45.89361]}},
+{"properties":{"num":"752330","pk":389.31,"use":"O","id":"Sathonay-Rillieux","uic":"87723700","nom":"Sathonay-Camp","cc":"69286","info":"+jj"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.87537,45.81982]}},
+{"properties":{"num":"752330","pk":389.6,"use":"B","id":"Lyon-Saint-Clair (Y-Sathonay)","uic":"87886_13","info":"+jj"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.87169,45.81767]}},
+{"properties":{"num":"752330","pk":394.43,"use":"N","id":"Lyon-Saint-Clair","uic":"87723254","nom":"Caluire-et-Cuire","cc":"69034","info":"gare"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.86147,45.79063]}},
+{"properties":{"num":"752330","pk":394.73,"use":"B","id":"Lyon-Saint-Clair (Ys)","uic":"87752330b","info":"terminus"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.86023,45.78888]}},
+
+{"properties":{"num":"893000","pk":504.5,"use":"B","id":"Lyon-Saint-Clair (Ys)","uic":"87752330b","info":"origine section_de_Ligne_de_Collonges-Fontaines_à_Lyon-Guillotière","end":"no"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.86023,45.78888]}},
+{"properties":{"num":"893000","pk":506.59,"use":"N","id":"Lyon-Brotteaux","uic":"87723007","nom":"Lyon-06","cc":"69386","info":"gare"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.86,45.7635]}},
+{"properties":{"num":"893000","pk":507.53,"use":"O","id":"Lyon-Part-Dieu","uic":"87723197","nom":"Lyon-03","cc":"69383"},"type":"Feature","geometry":{"type":"Point","coordinates":[4.8602,45.76054]}}
+
+]}

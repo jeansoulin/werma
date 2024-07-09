@@ -1,0 +1,19 @@
+{"type":"FeatureCollection",
+"metadata":{"country":85,"url":"predef/GaSimplon","mime":"geojson","type":"gare","year":"2022","doc":"manual"},
+"features":[
+{"properties":{"id":"Folkestone Shuttle Terminal","num":"chunnel","use":"O","pk":-4.436,"info":"origine Chunnel","end":"no"},"type":"Feature","geometry":{"type":"Point","coordinates":[1.137222,51.096667]}},
+{"properties":{"id":"Castle Hill Tunnel Portal","num":"chunnel","use":"NN","pk":0},"type":"Feature","geometry":{"type":"Point","coordinates":[1.156024,51.097135]}},
+
+{"properties":{"id":"British coast (Shakespeare Cliff)","num":"chunnel","use":"NN","pk":5},"type":"Feature","geometry":{"type":"Point","coordinates":[1.28728,51.108794]}},
+
+{"properties":{"id":"UK Undersea Crossover","num":"chunnel","use":"NN","pk":17.062},"type":"Feature","geometry":{"type":"Point","coordinates":[1.382328,51.078124]}},
+{"properties":{"id":"United Kingdom - France","num":"chunnel","use":"FO","pk":26.988},"type":"Feature","geometry":{"type":"Point","coordinates":[1.496484,51.014751]}},
+{"properties":{"id":"FR Undersea Crossover","num":"chunnel","use":"NN","pk":34.688},"type":"Feature","geometry":{"type":"Point","coordinates":[1.609977,50.986151]}},
+
+{"properties":{"id":"Cote française (Sangatte)","num":"chunnel","use":"NN","pk":45},"type":"Feature","geometry":{"type":"Point","coordinates":[1.740331,50.942525]}},
+
+
+{"properties":{"id":"Beussingues Tunnel Portal","num":"chunnel","use":"NN","pk":50.459},"type":"Feature","geometry":{"type":"Point","coordinates":[1.780029,50.923015]}},
+
+{"properties":{"id":"Calais Shuttle Terminal","num":"chunnel","use":"O","pk":57.795,"info":"terminus"},"type":"Feature","geometry":{"type":"Point","coordinates":[1.813889, 50.922778]}}
+]}

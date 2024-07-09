@@ -1,0 +1,33 @@
+{"type":"FeatureCollection",
+"metadata":{"country":70,"url":"predef/GaStockton","mime":"geojson","type":"gare","year":"2022","doc":"manual"},
+"features":[
+{"properties":{"id":"Stockton-on-Tees","num":"UK1","use":"N","pk":8,"info":"origine Stockton_Darlington","end":"??"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.31835,54.569688]}},
+{"properties":{"id":"Bowersfield","num":"UK1","use":"N","pk":10,"uic":"UK1_10","info":"+jj"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.318274,54.553863]}},
+{"properties":{"id":"Stockton-on-Tees (Ys)","num":"UK1","use":"X","pk":12,"uic":"UK1-12"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.334414,54.548989]}},
+{"properties":{"id":"Yarm branch (Y)","num":"UK1","use":"B","pk":14,"uic":"UK1_14","info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.350904,54.528583]}},
+
+{"properties":{"id":"Allens West","num":"UK1","use":"N","pk":16,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.362755,54.524489]}},
+{"properties":{"id":"Urlay Nook","num":"UK1","use":"N","pk":18,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.378121,54.525142]}},
+{"properties":{"id":"Oak Tree","num":"UK1","use":"N","pk":20,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.455955,54.517312]}},
+{"properties":{"id":"Fighting Cocks","num":"UK1","use":"N","pk":22,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.472797,54.522047]}},
+{"properties":{"id":"Red Hall","num":"UK1","use":"N","pk":24,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.523152,54.532164]}},
+{"properties":{"id":"Darlington (Y)","num":"UK1","use":"X","pk":26,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.545586,54.532688]}},
+{"properties":{"id":"Whessoe","num":"UK1","use":"N","pk":28,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.563836,54.559613]}},
+{"properties":{"id":"Aycliffe Lane","num":"UK1","use":"N","pk":30,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.581816,54.597311]}},
+{"properties":{"id":"Sim Pasture","num":"UK1","use":"N","pk":32,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.602761,54.617266]}},
+{"properties":{"id":"East Thickley","num":"UK1","use":"N","pk":34,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.633859,54.625479]}},
+{"properties":{"id":"Black Boy branch (Y)","num":"UK1","use":"X","pk":36,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.650456,54.642826]}},
+{"properties":{"id":"Auckland West","num":"UK1","use":"N","pk":37,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.714992,54.634438]}},
+{"properties":{"id":"Haggerleases branch (Y)","num":"UK1","use":"X","pk":38,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.716137,54.635197]}},
+{"properties":{"id":"Witton Park","num":"UK1","use":"N","pk":40,"info":"terminus"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.741226,54.655337]}},
+
+{"properties":{"id":"Yarm branch (Y)","num":"UK1y","use":"B","pk":14,"uic":"UK1_14","info":"origine Yarm_branch","end":"??"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.350904,54.528583]}},
+{"properties":{"id":"Yarm end","num":"UK1y","use":"N","pk":15,"info":"terminus"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.356497,54.518106]}},
+
+{"properties":{"id":"Middlesbrought","num":"UK1m","use":"N","pk":0,"info":"origine Middlesbrought_branch","end":"??"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.234231,54.579439]}},
+{"properties":{"id":"Newport junction","num":"UK1m","use":"N","pk":2,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.255234,54.574823]}},
+{"properties":{"id":"Tees barrage","num":"UK1m","use":"N","pk":4,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.284058,54.562626]}},
+{"properties":{"id":"Thornaby","num":"UK1m","use":"N","pk":6,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.301775,54.559416]}},
+{"properties":{"id":"(Bridge on Tees)","num":"UK1m","use":"X","pk":8,"info":""},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.310768,54.554996]}},
+{"properties":{"id":"Bowersfield","num":"UK1m","use":"J","pk":10,"uic":"UK1_10","info":"terminus"},"type":"Feature","geometry":{"type":"Point","coordinates":[-1.318274,54.553863]}},
+]}
