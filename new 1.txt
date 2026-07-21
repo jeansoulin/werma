@@ -1,0 +1,62 @@
+Match[30]: Magenta → Paris Gare du Nord ---MISMATCH--- uniquement Magenta = Magenta
+
+Match[41]: Belfort-Montbéliard-TGV → Meroux  ---MISMATCH---
+Match[237]: Mulhouse-Dornach-TT → Dornach (0.08km) ---MISMATCH---
+Match[238]: Mulhouse-Gare-Centrale-TT → Mulhouse-Ville (0.12km) ---MISMATCH---
+Match[661]: Ermont-Eaubonne (PSL) → Ermont - Eaubonne  ---MISMATCH---
+Match[661]: Ermont-Eaubonne (PSL) → Ermont - Eaubonne (0.10km) ---MISMATCH---
+Match[665]: Pacy-sur-Eure → Quai 1  ---MISMATCH---
+Match[665]: Pacy-sur-Eure → Quai 2  ---MISMATCH---
+Match[666]: Paris-Batignolles → Pont Cardinet (0.11km) ---MISMATCH---
+Match[689]: Pavilly-Ville → Pavilly-Station (0.13km) ---MISMATCH---
+Match[689]: Pavilly-Ville → Pavilly-Station (0.13km) ---MISMATCH---
+Match[748]: Saint-Sever-Calvados → Saint-Sever  ---MISMATCH---
+Match[761]: Paris-Montparnasse → Gare Montparnasse (0.09km) ---MISMATCH---
+Match[762]: Paris-Vaugirard → Paris Montparnasse (0.09km) ---MISMATCH---
+Match[1000]: Paris-Luxembourg → Luxembourg (0.11km) ---MISMATCH---
+Match[1030]: Paris-Austerlitz (Banlieue) → Paris Austerlitz  ---MISMATCH---
+tch[1030]: Paris-Austerlitz (Banlieue) → Paris-Austerlitz - Voie 21 (0.11km) ---MISMATCH---
+Match[1030]: Paris-Austerlitz (Banlieue) → Paris-Austerlitz - Voie 20 (0.11km) ---MISMATCH---
+Match[1030]: Paris-Austerlitz (Banlieue) → Paris-Austerlitz - Voie 19 (0.11km) ---MISMATCH---
+Match[1138]: Romorantin-Blanc-Argent → Romorantin-Lanthenay  ---MISMATCH---
+Match[1359]: Port-Vendres-Ville → Port-Vendres  ---MISMATCH---
+Match[1390]: Saint-Christophe-Vallon → Saint-Christophe  ---MISMATCH---
+Match[1414]: La Celle-Corrèze → Lacelle  ---MISMATCH---
+Match[1481]: Luc-Primaube → La Primaube (0.08km) ---MISMATCH---
+Match[1592]: Blanzy-Canal → Blanzy  ---MISMATCH---
+Match[1592]: Blanzy-Canal → Blanzy (0.09km) ---MISMATCH---
+Match[1697]: Paris-Gare-de-Lyon → Gare de Lyon (0.11km) ---MISMATCH---
+Match[1699]: Pompadour-Maisons-Alfort → Le Vert de Maisons  ---MISMATCH---
+Match[1770]: Avignon-Terminal TER → Avignon TGV  ---MISMATCH---
+Match[1770]: Avignon-Terminal TER → Avignon TGV (0.10km) ---MISMATCH---
+Match[1783]: Vallorbe (frontière) → Vallorbe  ---MISMATCH---
+Match[1891]: Aix-les-Bains-Le Revard → Ligne de la Maurienne (0.15km) ---MISMATCH---
+Match[2021]: Villeneuve-Loubet-Plage → Villeneuve-Loubet  ---MISMATCH---
+Match[2063]: Courcelles-Ceinture → Pereire - Levallois (0.20km) ---MISMATCH---
+Match[2064]: Pereire-Levallois → Pereire  ---MISMATCH---
+Match[2067]: Vincennes-Fontenay → Fontenay-sous-Bois (0.08km) ---MISMATCH---
+Match[2076]: Épinay-Villetaneuse-Montmagny → Épinay - Villetaneuse  ---MISMATCH---
+Match[2088]: La Folie-Nanterre → Nanterre-Préfecture (0.17km) ---MISMATCH---
+Match[2120]: Vaugirard-Ceinture → Porte de Versailles (0.17km) ---MISMATCH---
+Match[2123]: Paris-Gare-de-Lyon (Banlieue) → Gare de Lyon (0.10km) ---MISMATCH---
+Match[2123]: Paris-Gare-de-Lyon (Banlieue) → Paris Gare de Lyon  ---MISMATCH---
+Match[2123]: Paris-Gare-de-Lyon (Banlieue) → Paris Gare de Lyon (0.09km) ---MISMATCH---
+Match[2123]: Paris-Gare-de-Lyon (Banlieue) → Paris Gare de Lyon (0.08km) ---MISMATCH---
+Match[2123]: Paris-Gare-de-Lyon (Banlieue) → Paris Gare de Lyon  ---MISMATCH---
+Match[2140]: Pont-de-Vaux → Ancienne gare de Pont-de-Veyle  ---MISMATCH---
+Match[2170]: La Mure-Argens → La Mure  ---MISMATCH---
+Match[2178]: Arles-BdR → Arles RDT 13  ---MISMATCH---
+Match[2179]: Salon-BdR → Salon  ---MISMATCH---
+Match[2180]: Lamanon-BdR → Lamanon  ---MISMATCH---
+Match[2182]: Guingamp-CdN → Guingamp  ---MISMATCH---
+Match[2183]: Marignac-Cierp → Marignac - Saint-Béat (0.09km) ---MISMATCH---
+Match[2184]: Rennes-La Touche → Pontchaillou (0.18km) ---MISMATCH---
+Match[2190]: Pont-Saint-Vincent (tram) → Pont-Saint-Vincent  ---MISMATCH---
+Match[2192]: Cambrai-Cambrésis → Cambrai (0.19km) ---MISMATCH---
+Match[2193]: Fives-tram → Fives  ---MISMATCH---
+Match[2199]: Saint-Louis (tram) (Haut-Rhin) → Saint-Louis (Haut-Rhin)  ---MISMATCH---
+Match[2209]: Saint-Germain-Berteaux → Saint-Germain-en-Laye (0.16km) ---MISMATCH---
+Match[2210]: Nézel (tram) → Nézel - Aulnay (0.08km) ---MISMATCH---
+Match[2211]: Auber → Havre - Caumartin (0.17km) ---MISMATCH---
+Match[2211]: Auber → Havre - Caumartin (0.18km) ---MISMATCH---
+Match[2215]: La Palasse → Toulon Sainte-Musse (0.21km) ---MISMATCH---
