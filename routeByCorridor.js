@@ -1159,7 +1159,7 @@ const vgiStopFeatures = [
     {"properties":{"num":"121000","pk":34.6,"use":"J","id":"Bollwiller","uic":"87182709","info":"terminus"},"type":"Feature","geometry":{"type":"Point","coordinates":[7.26751,47.85686]}}    
 ];
 // input: filename of the OSM elements (Overpass API filter way[railway] for France bbox)
-const fileOSM = "reallyfullOSM.geojson";
+const fileOSM = "veryFullOSM-v2.geojson"; //"reallyfullOSM.geojson";
 // options: buffer sizes, in meters
 const options = {
     snapTolerance: 25, coarseBuffer: 200, corridorBuffer: 100
@@ -1238,7 +1238,6 @@ function buildWayComponentsPhase1(corridorWays) {
         if (!node.incidentWayIds.includes(current)) continue;
         for (const otherId of node.incidentWayIds) {
           if (!visited.has(otherId)) {
-            console.log(`push ${otherId}`)
             queue.push(otherId);
           }
         }
